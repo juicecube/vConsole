@@ -3,7 +3,7 @@
  * @see https://github.com/Tencent/vConsole
  */
 
-declare module 'vconsole' {
+declare module '@mlz/vconsole' {
   // VConsole configs
   export interface VConsoleConfig {
     defaultPlugins?: string[]
